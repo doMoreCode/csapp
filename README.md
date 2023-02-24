@@ -1,5 +1,6 @@
 # csapp
 The goal of repo is to understand the computer system.
+Before starting the lab, please read the infomation about csapp from the website:https://www.csapp.cs.cmu.edu
 ## lab1-data lab
 
 ## lab2-boomb lab
